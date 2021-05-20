@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abe646c1-0c2e-4832-b01a-d05c55078b00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue-material-dashboard-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/auth/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/billboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Layout/DashboardLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Layout/DashboardLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Typography.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Typography.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UserProfile/EditProfileForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserProfile/EditProfileForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UserProfile/UserCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserProfile/UserCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/routes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/Documents/Project/apache-maven-3.6.1/2019MavenRepo" />
-        <option name="mavenHome" value="$USER_HOME$/Documents/Project/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="$USER_HOME$/Documents/Project/apache-maven-3.6.1/conf/settings.xml" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../apache-maven-3.6.1/2019MavenRepo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../apache-maven-3.6.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -17,10 +52,56 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1snYaYTPDo73xYoSDUipX5q8Gm9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/api" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/api" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe646c1-0c2e-4832-b01a-d05c55078b00" name="Default Changelist" comment="" />
+      <created>1621509885074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621509885074</updated>
+      <workItem from="1621509888526" duration="8331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1621514062867">
+      <screen x="1792" y="-1458" width="1370" height="2535" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/1792.-1458.1370.2535/0.25.1792.1095@1792.-1458.1370.2535" timestamp="1621514062867" />
   </component>
 </project>

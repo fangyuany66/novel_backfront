@@ -10,7 +10,7 @@
           <md-card-content>
             <div id="typography">
               <div class="title">
-                <h2>Typography</h2>
+                <h2>章节管理</h2>
               </div>
               <div class="row">
                 <div class="tim-typo">

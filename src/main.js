@@ -18,6 +18,14 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import App from "./App";
 
+import store from "./store";
+// Buefy
+import Buefy from "buefy";
+import "buefy/dist/buefy.css";
+// ElementUI
+import ElementUI from "element-ui";
+import "element-ui/lib/theme-chalk/index.css";
+
 // router setup
 import routes from "./routes/routes";
 
@@ -31,6 +39,8 @@ import MaterialDashboard from "./material-dashboard";
 
 import Chartist from "chartist";
 
+Vue.use(Buefy);
+Vue.use(ElementUI);
 // configure router
 const router = new VueRouter({
   routes, // short for routes: routes
@@ -50,6 +60,7 @@ new Vue({
   el: "#app",
   render: h => h(App),
   router,
+  store,
   data: {
     Chartist: Chartist
   }

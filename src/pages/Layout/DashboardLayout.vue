@@ -9,19 +9,23 @@
       <mobile-menu slot="content"></mobile-menu>
       <sidebar-link to="/dashboard">
         <md-icon>dashboard</md-icon>
-        <p>Dashboard</p>
+        <p>系统数据</p>
       </sidebar-link>
       <sidebar-link to="/user">
         <md-icon>person</md-icon>
-        <p>User Profile</p>
+        <p>管理员管理</p>
+      </sidebar-link>
+      <sidebar-link to="/user1">
+        <md-icon>person</md-icon>
+        <p>用户管理</p>
       </sidebar-link>
       <sidebar-link to="/table">
         <md-icon>content_paste</md-icon>
-        <p>Table list</p>
+        <p>小说管理</p>
       </sidebar-link>
       <sidebar-link to="/typography">
         <md-icon>library_books</md-icon>
-        <p>Typography</p>
+        <p>章节管理</p>
       </sidebar-link>
       <sidebar-link to="/icons">
         <md-icon>bubble_chart</md-icon>
